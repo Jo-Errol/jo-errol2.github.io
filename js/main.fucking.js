@@ -47,6 +47,7 @@ addContrastControl();
 addInvertedControl();
 
  //mettre une popup
+ setTimeout(alert, 10000);
   alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please")
-  setTimeout(alert, 5000);
+  
 
