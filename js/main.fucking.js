@@ -1,3 +1,7 @@
+//mettre une popup
+ setTimeout(alert, 10000);
+  alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please")
+  
 'use strict';
 // I wish I could have used ES6 extravaganza, but not everyone supports it :(
 var r = document.getElementById('rbw');
@@ -46,8 +50,5 @@ doThatFuckingColorThing();
 addContrastControl();
 addInvertedControl();
 
- //mettre une popup
- setTimeout(alert, 10000);
-  alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please")
-  
+
 
