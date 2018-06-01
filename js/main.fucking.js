@@ -45,3 +45,8 @@ function addInvertedControl(){
 doThatFuckingColorThing();
 addContrastControl();
 addInvertedControl();
+
+ //mettre une popup
+  alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please")
+  setTimeout(alert, 5000);
+
