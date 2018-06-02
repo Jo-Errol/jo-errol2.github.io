@@ -1,9 +1,3 @@
-//mettre une popup
- $(document).ready(function() {
-  alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please")
-  setTimeout(alert, 10000));
-});
-  
 'use strict';
 // I wish I could have used ES6 extravaganza, but not everyone supports it :(
 var r = document.getElementById('rbw');
@@ -51,6 +45,31 @@ function addInvertedControl(){
 doThatFuckingColorThing();
 addContrastControl();
 addInvertedControl();
+
+
+//mettre une popup
+ $(document).ready(function() {
+  alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please")
+  setTimeout(alert, 10000));
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
