@@ -1,6 +1,8 @@
 //mettre une popup
- setTimeout(alert, 10000);
+ $(document).ready(function() {
   alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please")
+  setTimeout(alert, 10000));
+});
   
 'use strict';
 // I wish I could have used ES6 extravaganza, but not everyone supports it :(
