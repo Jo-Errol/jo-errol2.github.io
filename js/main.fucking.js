@@ -42,6 +42,10 @@ function addInvertedControl(){
   someControl('invmode', ['Inverted mode', 'Normal mode'], 'inverted');
 }
 
+function addPsychedelicControl(){
+  someControl('psymode', ['Psychedelic mode', 'Normal mode'], 'psychedelic');
+}
+
 doThatFuckingColorThing();
 addContrastControl();
 addInvertedControl();
