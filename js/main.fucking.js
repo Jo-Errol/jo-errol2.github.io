@@ -49,6 +49,7 @@ function addPsychedelicControl(){
 doThatFuckingColorThing();
 addContrastControl();
 addInvertedControl();
+addPsychedelicControl();
 
 
 //mettre une popup
